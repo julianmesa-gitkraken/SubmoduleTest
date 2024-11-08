@@ -1,0 +1,3 @@
+[submodule "SubmoduleTest-submodule"]
+	path = SubmoduleTest-submodule
+	url = https://github.com/julianmesa-gitkraken/SubmoduleTest-submodule.git
